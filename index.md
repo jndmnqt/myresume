@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="stylesheet" href="style.css">
+<title> JDT Resume </title>
+</head>
+<body>
+
+<div class="p">
+<div class="h">
+<h1>Timbol, Jan Dominique M.</h1>
+<em>3rd Year BS Geology student</em>
+</div>
+
+<div class="">
+<h2><b>Contacts</b></h2>
+<ul>
+  <li><i>E-mail: </i>jmtimbol@up.edu.ph</li>
+  <li><i>Phone number:</i> 09069293376</li>
+  <li><i>Facebook:</i>  <a href="https://www.facebook.com/jandominique.timbol" target="_blank">facebook.com/jandominique.timbol</a></li>
+  <li><i>Address:</i> Quezon City, Metro Manila</li>
+  <li><i>Github:</i>  <a href="" target="_blank">tba</a></li>
+</div>
+
+<div class="">
+<h2><b>Education & Achievements</b></h2>
+<ul>
+  <li><i>Placido del Mundo Elementary School</i> - Graduate with Honor </li>
+  <li><i>Caloocan City Science High School</i> - Graduate with Honor </li>
+  <li><i>University of the Philippines Diliman</i> - 3rd Year Undergraduate (current) </li>
+</ul>
+</div>
+
+<div class="">
+<h2><b>Skills</b></h2>
+<ul>
+  <li>Graphic designing</li>
+  <li>Digital drawing</li>
+  <li>Traverse topographic mapping</li>
+  <li>Basic topographic profiling</li>
+</ul>
+</div>
+</div>
+</body>
+</html>
